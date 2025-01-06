@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcd797b8-f0c9-47c6-94d9-06bbfdbb5f72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AdvGithub/AdvGithub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdvGithub/src/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_DTpractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C01_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C02_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C03_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C04_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C05_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C06_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C07_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day04/C08_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day05_10102024/C01_odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day05_10102024/C02_odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day05_10102024/C03_odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day05_10102024/C04_odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day05_10102024/C05_mda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day05_10102024/C06_dateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day05_10102024/C07_DateTimeFormattir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/encapsulation/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/inheritance/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/inheritance/Corsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/inheritance/Opel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/inheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/inheritance/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/staticblock/Memur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/day06_19102024/staticblock/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/interviewday02/C01_InterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/interviewday02/C02_InterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Batch292_NTpractice/src/main/java/interviewday02/C03_InterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/java/com/tpe/hb01/basicannotations/RunnerSave01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/java/com/tpe/hb01/basicannotations/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcInstructionDt/src/main/java/Execute01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcInstructionDt/src/main/java/ExecuteQuery01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/haticeangilci/SpringMvc.git",
+    "accountId": "c8f38e65-0938-47c8-8896-1c3c3c64871b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2rGi5hb2ZgPqGtD9AfLwxgfcYJb" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/SpringMvc"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcd797b8-f0c9-47c6-94d9-06bbfdbb5f72" name="Changes" comment="" />
+      <created>1736191631660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736191631660</updated>
+    </task>
+    <servers />
+  </component>
+</project>
