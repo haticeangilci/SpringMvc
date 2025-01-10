@@ -39,6 +39,18 @@
       <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/java/com/tpe/hb01/basicannotations/RunnerSave01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/java/com/tpe/hb01/basicannotations/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/RootConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/WebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/controller/StudentRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/exception/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/repository/IStudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/resources/db.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/JdbcUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/Repository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/Runner.java" afterDir="false" />
@@ -47,6 +59,12 @@
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/StudentService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbcInstructionDt/src/main/java/Execute01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbcInstructionDt/src/main/java/ExecuteQuery01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMvc/src/main/webapp/WEB-INF/views/students.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMvc/src/main/webapp/WEB-INF/views/students.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,18 +72,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/haticeangilci/SpringMvc.git",
-    "accountId": "c8f38e65-0938-47c8-8896-1c3c3c64871b"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;haticeangilci&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1736192142" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1736192141" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/haticeangilci/SpringMvc.git&quot;,
+    &quot;accountId&quot;: &quot;c8f38e65-0938-47c8-8896-1c3c3c64871b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2rGi5hb2ZgPqGtD9AfLwxgfcYJb" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
