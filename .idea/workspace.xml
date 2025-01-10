@@ -39,18 +39,6 @@
       <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/java/com/tpe/hb01/basicannotations/RunnerSave01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/java/com/tpe/hb01/basicannotations/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateInstruction/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/RootConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/WebAppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/controller/StudentRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/exception/StudentNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/repository/IStudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/service/IStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/java/com/tpe/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvc/src/main/resources/db.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/JdbcUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/Repository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/Runner.java" afterDir="false" />
@@ -59,12 +47,6 @@
       <change afterPath="$PROJECT_DIR$/../StudentManagementSystem/src/main/java/StudentService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbcInstructionDt/src/main/java/Execute01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbcInstructionDt/src/main/java/ExecuteQuery01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMvc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMvc/src/main/webapp/WEB-INF/views/students.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMvc/src/main/webapp/WEB-INF/views/students.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
